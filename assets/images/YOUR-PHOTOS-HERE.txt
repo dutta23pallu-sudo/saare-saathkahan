@@ -1,0 +1,1 @@
+Upload your saree photos into this folder. Then update the matching images array in data/products.json, for example: ["assets/images/red-kanjivaram-front.jpg", "assets/images/red-kanjivaram-border.jpg"]. Use JPG, PNG or WebP. Keep filenames simple (lowercase, hyphens, no spaces).

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "festive-edit",
+    "name": "The Festive Edit",
+    "category": "Festive",
+    "badge": "Festive edit",
+    "price": 3499,
+    "shortDescription": "A statement drape for celebrations and special evenings.",
+    "description": "A graceful statement saree for celebrations, family gatherings and special evenings. Add your own fabric, weave and care details here.",
+    "fabric": "Add fabric details",
+    "colour": "Add colour details",
+    "availability": "Available",
+    "images": [
+      "assets/images/placeholder-saree.svg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "classic-drape",
+    "name": "The Classic Drape",
+    "category": "Classic",
+    "badge": "Timeless",
+    "price": 2799,
+    "shortDescription": "Understated elegance with a timeless Indian sensibility.",
+    "description": "An elegant classic designed for a timeless wardrobe. Update this description with the exact weave, finish and product details.",
+    "fabric": "Add fabric details",
+    "colour": "Add colour details",
+    "availability": "Available",
+    "images": [
+      "assets/images/placeholder-saree.svg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "everyday-muse",
+    "name": "The Everyday Muse",
+    "category": "Everyday",
+    "badge": "Easy elegance",
+    "price": 1599,
+    "shortDescription": "Comfort-led style for days when simple feels special.",
+    "description": "An easy-to-style saree for everyday elegance. Add accurate fabric, length, blouse piece and care information.",
+    "fabric": "Add fabric details",
+    "colour": "Add colour details",
+    "availability": "Available",
+    "images": [
+      "assets/images/placeholder-saree.svg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "celebration-saree",
+    "name": "The Celebration Saree",
+    "category": "Festive",
+    "badge": "Occasion wear",
+    "price": 4299,
+    "shortDescription": "Made for family gatherings, festivities and memorable moments.",
+    "description": "A special-occasion drape for memorable moments. Replace this sample copy with the exact product description.",
+    "fabric": "Add fabric details",
+    "colour": "Add colour details",
+    "availability": "Available",
+    "images": [
+      "assets/images/placeholder-saree.svg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "heritage-story",
+    "name": "The Heritage Story",
+    "category": "Classic",
+    "badge": "Heritage notes",
+    "price": 3199,
+    "shortDescription": "A graceful choice inspired by the richness of Indian tradition.",
+    "description": "A saree inspired by the richness of Indian textile traditions. Add the actual weave, origin and product details.",
+    "fabric": "Add fabric details",
+    "colour": "Add colour details",
+    "availability": "Available",
+    "images": [
+      "assets/images/placeholder-saree.svg"
+    ],
+    "featured": false
+  },
+  {
+    "id": "soft-neutral",
+    "name": "The Soft Neutral",
+    "category": "Everyday",
+    "badge": "Quiet luxury",
+    "price": 1899,
+    "shortDescription": "Soft tones and refined styling for a quietly confident look.",
+    "description": "Soft tones and refined styling for an understated look. Update with the exact shade, fabric and care details.",
+    "fabric": "Add fabric details",
+    "colour": "Add colour details",
+    "availability": "Available",
+    "images": [
+      "assets/images/placeholder-saree.svg"
+    ],
+    "featured": false
+  }
+]
