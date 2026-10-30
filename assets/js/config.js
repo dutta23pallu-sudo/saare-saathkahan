@@ -1,6 +1,6 @@
 // Store your business settings here. WhatsApp format: country code + number, digits only.
 window.SS_CONFIG = {
-  whatsappNumber: "918617539916", // Replace with your real business WhatsApp number.
+  whatsappNumber: "917363811401", // Replace with your real business WhatsApp number.
   currency: "INR",
   currencyLocale: "en-IN",
   storeName: "Saree Satkahan",
